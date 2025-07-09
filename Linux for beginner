@@ -1,0 +1,31 @@
+# Basic Linux/Unix Commands
+
+A list of important Linux/Unix commands every beginner should know.
+
+| Command | Description |
+|---------|-------------|
+| `cat` | Display file contents |
+| `cd` | Change directory to dirname |
+| `chgrp` | Change file group |
+| `chmod` | Change file permissions |
+| `cp` | Copy source file into destination |
+| `file` | Determine file type |
+| `find` | Find files |
+| `grep` | Search files using regular expressions |
+| `head` | Display first few lines of a file |
+| `ln` | Create softlink on oldname |
+| `ls` | Display information about file type |
+| `mkdir` | Create a new directory |
+| `more` | Display data in paginated form |
+| `mv` | Move or rename files |
+| `pwd` | Print current working directory |
+| `rm` | Remove (delete) files |
+| `rmdir` | Remove empty directory |
+| `tail` | Print last few lines of a file |
+| `touch` | Update file access and modification times |
+
+---
+
+Useful for beginners and system administrators alike.
+
+
